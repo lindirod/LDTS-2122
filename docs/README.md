@@ -333,18 +333,4 @@ Quando foi feito um refactoring do trabalho, reparamos existirem muitos _code sm
 ![img_6.png](testes/img_6(1).png)
 
 
-## Autoavaliação
-       
-| Nome            | Contribuição |
-| --------------- |--------------|
-| Mónica Araújo   | 50 %         | 
-| Linda Rodrigues | 50 %         |
-
-
-## Observações
-Devido à inexperiência das autoras deste projeto foi impossivel seguir totalmente a tecnica de desenvolvimento de ‘software’ guiada por Testes (TDD).
-Existiu varias tentativas de primeiro desenvolver os teste e depois é que fazer o codigo e no final fazer o refactory. No entanto, como foi a nossa primeira vez que desenvolvemos um projeto deste tipo e tamanho não sabiamos muito bem o que queriamos fazer e como o iriamos fazer.
-Dessa forma aconteceu de primeiro escrevemos o codigo e só depois e que testavamos e faziamos refactory.
-
-
 
